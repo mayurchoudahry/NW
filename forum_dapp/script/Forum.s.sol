@@ -6,7 +6,6 @@ import {Forum} from "../src/Forum.sol";
 
 contract ForumScript is Script {
     Forum public forum;
-
     function setUp() public {}
 
     function run() public {
